@@ -1,4 +1,4 @@
 # MyblogImags
 This is a repo to store my blog imags
 
-已经弃用，加载速度太慢了。
+加载速度太慢了，但应该还在用
